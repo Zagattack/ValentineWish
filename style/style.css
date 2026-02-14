@@ -15,6 +15,7 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
+  background-color: #DB3416;
 }
 
 .container div.six {
