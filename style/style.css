@@ -81,7 +81,7 @@ body {
   position: absolute;
   right: 5px;
   bottom: 5px;
-  background-color: #C8B6FF;;
+  background-color: #C8B6FF;
   padding: 5px 8px;
   border-radius: 3px;
 }
@@ -97,7 +97,7 @@ body {
   padding: 3px 5px;
   border-radius: 3px;
   display: inline-block;
-  background-color #C8B6FF !important;
+  background-color #C8B6FF;
 }
 
 .five .idea-5 {
