@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  
 }
 
 .container {
@@ -15,7 +16,7 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-  background-color: #DB3416;
+  background-color: #FF00F5;
 }
 
 .container div.six {
